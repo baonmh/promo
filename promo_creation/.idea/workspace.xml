@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c05e506e-445f-47bb-b352-cb570d614b0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1WHwODHxpaRcTC7rd8oh6LFwqJ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="promo_creation.App" />
+      <module name="promo_creation.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="promo_creation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="promo_creation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05e506e-445f-47bb-b352-cb570d614b0c" name="Default Changelist" comment="" />
+      <created>1578819793704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578819793704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="77" key="#Project_Structure" timestamp="1578821188458">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="338" y="77" key="#Project_Structure/0.23.1440.812@0.23.1440.812" timestamp="1578821188458" />
+    <state x="423" y="76" key="#Unnamed" timestamp="1578821231764">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="423" y="76" key="#Unnamed/0.23.1440.812@0.23.1440.812" timestamp="1578821231764" />
+    <state x="187" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578820646682">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="187" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1578820646682" />
+    <state x="460" y="242" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578821226974">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="460" y="242" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.812@0.23.1440.812" timestamp="1578821226974" />
+    <state x="589" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578821138435">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="589" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.812@0.23.1440.812" timestamp="1578821138435" />
+    <state x="327" y="73" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1578821135176">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="327" y="73" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.23.1440.812@0.23.1440.812" timestamp="1578821135176" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/promo_creation$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1578820723487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
